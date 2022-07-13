@@ -3,7 +3,7 @@
 
 ##### About me:
 
-- :chart_with_upwards_trend: Just finished my Full Stack Web Dev bootcamp at Codespace Academy!.
+- :school_satchel: Just finished my Full Stack Web Dev bootcamp at Codespace Academy!.
 - :star_struck: I just finished my first full stack project. You can check it __[here](https://github.com/TGacek89/FinalProject)__.
 - :open_book: I'm coding daily to get beter understanding of coding.
 - :chart_with_upwards_trend: I was working as a chef but now I'm dedicating myself to coding!. (But I'm grateful for this experience, it helps me in my life and work.)
