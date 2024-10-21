@@ -8,7 +8,7 @@
 - :open_book: I'm coding daily to get beter understanding of coding.
 - :hammer_and_wrench: Currently working as a Junior Software Developer at Caroda, where I integrate video players and banners into client web applications and assist in building Node.js backend services and GraphQL APIs for ad delivery.
 - :chart_with_upwards_trend: Previously, I worked as a Software Engineer in Data Acquisition at Ciklum, developing crawlers for data extraction from e-commerce websites and Android apps.
-- :knife_fork_plate: I also bring experience from my past career as a Senior Chef de Partie in high-pressure, prestigious establishments, which honed my problem-solving, collaboration, and leadership skills.
+- :knife: I also bring experience from my past career as a Senior Chef de Partie in high-pressure, prestigious establishments, which honed my problem-solving, collaboration, and leadership skills.
 - 💞️ I love this huge digital world and I'm sure this is exactly where I want to be!
 - 👀 Now I'm looking for new projects and working opportunities.
 
