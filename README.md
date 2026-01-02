@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Tomasz!!
+# Hi, my name is Tomasz!!
 #### Currently living in Malaga, Spain :es:.
 
 ##### About me:
