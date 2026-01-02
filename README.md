@@ -3,14 +3,17 @@
 
 ##### About me:
 
-- :school_satchel: Finished my Full Stack Web Dev bootcamp at Codespace Academy!.
-- :star_struck: I just finished my first full stack project. You can check it __[here](https://github.com/TGacek89/FinalProject)__.
-- :open_book: I'm coding daily to get beter understanding of coding.
-- :hammer_and_wrench: Currently working as a Junior Software Developer at Caroda, where I integrate video players and banners into client web applications and assist in building Node.js backend services and GraphQL APIs for ad delivery.
-- :chart_with_upwards_trend: Previously, I worked as a Software Engineer in Data Acquisition at Ciklum, developing crawlers for data extraction from e-commerce websites and Android apps.
-- :knife: I also bring experience from my past career as a Senior Chef de Partie in high-pressure, prestigious establishments, which honed my problem-solving, collaboration, and leadership skills.
-- 💞️ I love this huge digital world and I'm sure this is exactly where I want to be!
-- 👀 Now I'm looking for new projects and working opportunities.
+Software Engineer with full stack experience building and maintaining production web applications.
+
+I’m a graduate of Codespace Academy’s Full Stack Web Development program and have delivered end-to-end projects across frontend and backend systems. I code daily to continuously improve my technical depth and engineering best practices.
+
+Currently, I work as a Software Engineer at BCXPro, contributing to scalable web applications in collaboration with cross-functional teams.
+
+Previously, I worked as a Software Engineer at Caroda, where I integrated video players and advertising components into client applications and contributed to Node.js backend services and GraphQL APIs. Before that, I was part of Ciklum’s Data Acquisition team, developing crawlers for large-scale data extraction from e-commerce websites and Android applications.
+
+Before transitioning into tech, I spent several years as a Senior Chef de Partie in high-pressure environments, building strong problem-solving, teamwork, and leadership skills that translate directly into software engineering.
+
+Open to new projects and growth opportunities.
 
 #### Languages and technologies being lerned:
 
